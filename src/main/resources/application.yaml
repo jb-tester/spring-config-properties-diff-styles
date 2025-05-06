@@ -1,0 +1,8 @@
+my:
+  bean:
+    public:
+      prop1: foo
+      prop2: bar
+    nonpublic:
+      prop1: boo
+      prop2: buzz
